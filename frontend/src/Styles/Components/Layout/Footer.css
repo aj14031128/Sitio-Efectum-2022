@@ -1,0 +1,10 @@
+
+/* Pie de la pagina */
+.footer{background-color: rgb(156, 156, 156);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Oswald', sans-serif}
+/* Fin del pie de pagina */

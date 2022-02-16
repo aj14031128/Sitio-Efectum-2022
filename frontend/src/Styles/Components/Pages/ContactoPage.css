@@ -1,0 +1,44 @@
+/*Inicio de contacto */
+
+.CONTACTO1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1%;
+}
+
+.CONTACTO2{
+    width: 47%;
+    border-right: rgb(39,32,75);
+    border-right: 1px solid;
+}
+
+
+.CONTACTO3{width: 47%;
+    }
+
+
+.formulario label{
+    width: 25%;
+    vertical-align: top;
+    text-align: left;
+ }
+
+ .formulario input, 
+ .formulario textarea{
+    width: 65%; 
+    background-color:#ddd;
+    border-radius: 5px;
+    border: 1px solid rgb(39,32,75);
+ }
+
+ .formulario input[type="submit"]{
+     background-color: rgb(6,108,155);
+     color: white;
+     width: 30%;
+     cursor: pointer;
+     box-shadow: rgb(39,32,75);
+ }
+
+
+/* Fin de contacto */

@@ -1,0 +1,24 @@
+/* En esta etapa se edita el logo y el nombre */
+
+.holder{background-color:white;
+    display: flex;
+    align-items: center;}
+    
+    .holder img{width: 100px;
+        margin-left: 10px;}
+    
+    .textologo{display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 20px;
+        font-family: 'Oswald', sans-serif
+    }
+    
+    .textologo h1{margin: 0%;
+    font-size: 35px;}
+    
+    .textologo h2{margin: 0%;
+    font-size: 20px;}
+    
+    
+    

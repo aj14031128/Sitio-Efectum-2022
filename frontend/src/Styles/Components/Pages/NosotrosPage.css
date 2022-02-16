@@ -1,0 +1,41 @@
+/* Nosotros */
+h1{font-family: 'Oswald', sans-serif;
+    font-size: 130%;}
+    
+    P{font-family: 'Oswald', sans-serif;
+    font-size: 90%;
+    text-align: center;}
+    
+    .CONTENEDORNOSOTROS1{
+        display: flex;
+        justify-content: center;
+        height: fit-content;
+    }
+    
+    
+    .CONTENEDORNOSOTROS2 img{
+        border-radius: 50%;
+        max-width: 70%;
+        margin: 15%;
+    }
+    
+    
+    .CONTENEDORNOSOTROS2{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        text-align: center;
+        background-color: rgb(6,108,155);
+        width: 20%;
+        margin: 20px;
+        border-radius: 20PX;
+        font-size: 70%;
+    }
+    
+    .CONTENEDORNOSOTROS2:hover{
+        background-color: rgb(39,32,75);
+        color: white;
+    }
+    
+    
+    /* Fin de Nosotros */

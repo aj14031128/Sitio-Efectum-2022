@@ -1,0 +1,34 @@
+/* En esta etapa se edita la barra de navegacion */
+    
+/*nav{margin bottom: 2px} VER PORQUE NO FUNCIONA*/
+
+.nav{background-color:rgb(6,108,155);
+display: flex;
+justify-content: center;}
+
+.nav ul{list-style: none;
+margin: 0%;
+padding: 0%;}
+
+.nav ul{display: flex;
+justify-content: center;
+flex-direction: row;}
+
+
+.nav ul li{display: flex;
+    justify-content: center;
+width: 150px;
+text-align: center;
+font-family: 'Oswald', sans-serif}
+
+
+
+.nav ul li a{color: white;
+text-decoration: none;}
+
+.nav ul li:hover{background-color: rgb(39,32,75);
+    text-decoration: none;}
+
+.activo{background-color: rgb(39,32,75)}
+
+/* Fin de la barra de navegacion */
