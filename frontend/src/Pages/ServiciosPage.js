@@ -18,7 +18,7 @@ const ServiciosPage=(props)=>{
                 </ul>
             </div>
             <div className="CONTENEDORSERVICIOS3">
-                 <img src="imagenes/servicios/Renovables/alternative-energy-building-clouds-energy-356036.jpg" alt=""/>
+                 <img src="imagenes/Servicios/Renovables/alternative-energy-building-clouds-energy-356036.jpg" alt=""/>
             </div>
         </div>
         <div class="CONTENEDORSERVICIOS1">
@@ -34,7 +34,7 @@ const ServiciosPage=(props)=>{
                 </ul>
             </div>
             <div className="CONTENEDORSERVICIOS3">
-                 <img src="imagenes/servicios/Electromecanicos/electromecanicos.jpg" alt=""/>
+                 <img src="imagenes/Servicios/Electromecanicos/electromecanicos.jpg" alt=""/>
             </div>
         </div>
         <div class="CONTENEDORSERVICIOS1">
@@ -50,7 +50,7 @@ const ServiciosPage=(props)=>{
                 </ul>
             </div>
             <div className="CONTENEDORSERVICIOS3">
-                 <img src="imagenes/servicios/Simulación/1 (1).jpg" alt=""/>
+                 <img src="imagenes/Servicios/Simulación/1 (1).jpg" alt=""/>
             </div>
         </div>
     </main>
